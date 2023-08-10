@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+
+
+*.csv
+*.db
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.accdb
+*.pdf
+
+
+.vscode/
+.venv
+.virtual
