@@ -1,0 +1,105 @@
+Date: 12/8/2024
+Time: 10:5
+Phone Number: +11954527761
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': 11954527761, 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:6
+Phone Number: +11954527761
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11954527761, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:17
+Phone Number: +11989996539; 11940050276; 11959768826
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': '11989996539; 11940050276; 11959768826', 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:17
+Phone Number: +11954527761
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11954527761, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:20
+Phone Number: +11989996539; 11940050276; 11959768826
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': '11989996539; 11940050276; 11959768826', 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:21
+Phone Number: +11954527761
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11954527761, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:25
+Phone Number: +11989996539, 11940050276, 11959768826
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': '11989996539, 11940050276, 11959768826', 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:25
+Phone Number: +11954527761
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11954527761, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:27
+Phone Number: +11940050276
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': 11940050276, 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 10:28
+Phone Number: +11959768826
+Message: Saudações, tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11959768826, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 16:48
+Phone Number: +11940050276
+Message: Bom dia !!! Tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': 11940050276, 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 12/8/2024
+Time: 16:48
+Phone Number: +11959768826
+Message: Bom dia !!! Tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11959768826, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 13/8/2024
+Time: 9:46
+Phone Number: +11940050276
+Message: Bom dia !!! Tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': 11940050276, 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 13/8/2024
+Time: 9:46
+Phone Number: +11959768826
+Message: Bom dia !!! Tem veículo disponível para atender a rota? Detalhes: {'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 966, 'FRETE': 4300, 'NOME_TRANSPORTADORA': 'TRANSSUCESSO TRANPORTADORA LTDA', 'NOME_FANTASIA': 'TRANSSUCESSO', 'Tel_Fixo': 11959768826, 'E-mail': 'emerson@transnegrelli.com; badu@transnegrelli.com;', 'Ativa': True, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54')}
+--------------------
+Date: 13/8/2024
+Time: 11:13
+Phone Number: +11940050276
+Message: Boa tarde !!! Tem veículo disponível para atender a rota? Detalhes: {'index': 0, 'origem': 'CDA', 'loja': 'BHA', 'cidade_destino': 'BELO HORIZONTE', 'uf_destino': 'MG', 'tipo_veiculo': 'TRUCK', 'data_carregamento': Timestamp('2024-08-10 00:00:00'), 'hora_carregamento': datetime.time(3, 0), 'peso': 9.391354, 'RANKING': 892, 'FRETE': 3800, 'NOME_TRANSPORTADORA': 'TRANSPORTADORA BOMPREÇO LTDA', 'NOME_FANTASIA': 'BOMPREÇO', 'Tel_Fixo': 11940050276, 'E-mail': 'fabio_cordeiro@carrefour.com;', 'Ativa': False, 'CONTATADO': 'FALSO', 'ATENDEU': 'FALSO', 'NO SHOW': 'FALSO', 'PLACA1': nan, 'PLACA2': nan, 'PREVISAO_CHEGADA': nan, 'DATA_HORA_REGISTRO': Timestamp('2024-08-11 13:37:54'), 'chave_primaria': 'CDABHABELO HORIZONTEMGTRUCK'}
+--------------------
+Date: 13/8/2024
+Time: 11:54
+Phone Number: +11940050276
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:2024-08-10 00:00:00 03:00:00 peso:9.391354 No aguardo !
+--------------------
+Date: 13/8/2024
+Time: 11:54
+Phone Number: +11959768826
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:2024-08-10 00:00:00 03:00:00 peso:9.391354 No aguardo !
+--------------------
+Date: 13/8/2024
+Time: 14:34
+Phone Number: +11959768826
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:1/0/202 peso:9 No aguardo !
+--------------------
+Date: 13/8/2024
+Time: 14:36
+Phone Number: +11940050276
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:1/0/202 peso:9 No aguardo !
+--------------------
+Date: 13/8/2024
+Time: 14:37
+Phone Number: +11959768826
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:1/0/202 peso:9 No aguardo !
+--------------------
+Date: 14/8/2024
+Time: 14:37
+Phone Number: +11940050276
+Message: Boa tarde !!! Tem veículo disponível para atender a rota abaixo ? Veículo:TRUCK LOJA:BHA Origem:CDA Destino:BELO HORIZONTE-MG Data de carregamento:1/0/202 peso:9 No aguardo !
+--------------------
