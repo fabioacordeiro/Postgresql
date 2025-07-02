@@ -1,3 +1,8 @@
+# Desenvolvido por Fábio A Cordeiro
+# 08/07/2024
+# pip install pandas
+
+# importando a biblioteca pandas e mudando renomendo-á para pd
 import pandas as pd
 
 # Caminho do arquivo Excel
@@ -32,3 +37,6 @@ for index in range(1, len(df1)):
 
 # Salvar o DataFrame atualizado em um novo arquivo Excel
 df1.to_excel('ranking_python.xlsx', index=False)
+
+# Imprimindo na tela o local do arquivo Excel salvo
+print(r'Arquivo criado na pasta C:\Fabio\Desenvolvimento\Postgresql')
